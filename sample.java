@@ -4,3 +4,6 @@ public static void main(){
 void somefunction(){
 	system.out.println("This is from some function");
 }
+void anotherfunction(){
+	system.out.println("This is from another function");
+}
