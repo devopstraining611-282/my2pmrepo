@@ -13,3 +13,6 @@ void functiontwo_br2(){
 void functionthree_br2(){
 	system.out.println("This is from function three in br2");
 }
+void functionfour_newbr(){
+	system.out.println("This is from function four in newbr");
+}
