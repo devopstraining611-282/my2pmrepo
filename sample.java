@@ -7,3 +7,6 @@ void somefunction(){
 void anotherfunction(){
 	system.out.println("This is from another function");
 }
+void functionone(){
+	system.out.println("This is from function one");
+}
