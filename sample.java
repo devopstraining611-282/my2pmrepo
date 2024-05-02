@@ -7,6 +7,9 @@ void somefunction(){
 void anotherfunction(){
 	system.out.println("This is from another function");
 }
-void functionone(){
-	system.out.println("This is from function one");
+void functiontwo_br2(){
+	system.out.println("This is from function two in br2");
+}
+void functionthree_br2(){
+	system.out.println("This is from function three in br2");
 }
