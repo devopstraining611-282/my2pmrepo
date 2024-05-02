@@ -16,3 +16,6 @@ void functionthree_br2(){
 void functionfour_newbr(){
 	system.out.println("This is from function four in newbr");
 }
+void functionfive_newbr(){
+	system.out.println("This is from function five in newbr");
+}
