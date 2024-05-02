@@ -10,3 +10,6 @@ void anotherfunction(){
 void functiontwo_br2(){
 	system.out.println("This is from function two in br2");
 }
+void functionthree_br2(){
+	system.out.println("This is from function three in br2");
+}
